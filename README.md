@@ -1,4 +1,4 @@
-# Teste técnico
+<img src="./images/cover.png" alt="Imagem de capa do readme do desafio técnico" width="100%"/>
 
 A seguir você encontrará instruções para realizar este teste técnico. Caso haja qualquer dúvida durante o processo envie um e-mail para [emilio.heinzmann@cwi.com.br](mailto:emilio.heinzmann@cwi.com.br)
 
