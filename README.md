@@ -26,6 +26,10 @@ Calma lá! Não tem problema nenhum. Estamos buscando pessoas que saibam resolve
 - Componentização
 - Fidelidade ao layout
 
+## O que iremos disponibilizar
+- Layout para todas as telas e estados da aplicação
+- Uma API para consulta dos dados necessários para desenvolvimento do desafio
+
 ## O desafio
 
 O objetivo desse desafio é criar uma pequena lojinha de [NFTs](https://www.google.com/search?q=O+que+%C3%A9+um+NFT%3F) onde teremos uma listagem dos NFTs disponíveis e a possibilidade de adicioná-los a uma carteira.
