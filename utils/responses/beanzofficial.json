@@ -1,0 +1,3122 @@
+{
+  "next": "LXBrPTM4NjMzNTgyNg==",
+  "previous": null,
+  "assets": [
+    {
+      "id": 401178764,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/2d87d273a2d5a620374ba87ea3cc4074.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/2d87d273a2d5a620374ba87ea3cc4074.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/2d87d273a2d5a620374ba87ea3cc4074.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19949.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19949",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19949",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19949",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Background",
+          "value": "Off White C",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3865,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Grimace",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 428,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Jelly Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1120,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Stare",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1525,
+          "order": null
+        },
+        {
+          "trait_type": "Eyebrows",
+          "value": "Sad",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 185,
+          "order": null
+        },
+        {
+          "trait_type": "Headgear",
+          "value": "Sloth Beanie",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 266,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19949"
+    },
+    {
+      "id": 401178761,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/88007876165317900d143c7695bcfe4b.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/88007876165317900d143c7695bcfe4b.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/88007876165317900d143c7695bcfe4b.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19948.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19948",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19948",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19948",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Clothing",
+          "value": "Oversized Red BEANZ Logo T-shirt",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 308,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Coffee Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1972,
+          "order": null
+        },
+        {
+          "trait_type": "Face",
+          "value": "Bandaid",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 536,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cheeky Wink",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1229,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White A",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3460,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": ":c",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1110,
+          "order": null
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Ledger",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 198,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19948"
+    },
+    {
+      "id": 401178758,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/f3165af9dde416d9dbc67bc0368a4311.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/f3165af9dde416d9dbc67bc0368a4311.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/f3165af9dde416d9dbc67bc0368a4311.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19947.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19947",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19947",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19947",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Hand",
+          "value": "Cocktail Umbrella",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 244,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Grimace",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 428,
+          "order": null
+        },
+        {
+          "trait_type": "Headgear",
+          "value": "Kanzashi",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 161,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cheeky Wink",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1229,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lentil",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 2077,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White B",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3419,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19947"
+    },
+    {
+      "id": 401178754,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/48b5df47bfebe0df21d45bc33dcd785a.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/48b5df47bfebe0df21d45bc33dcd785a.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/48b5df47bfebe0df21d45bc33dcd785a.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19946.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19946",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19946",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19946",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Hand",
+          "value": "Cocktail Umbrella",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 244,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Closed",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1521,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White D",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 4836,
+          "order": null
+        },
+        {
+          "trait_type": "Face",
+          "value": "Bandaid",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 536,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Friendly Wink",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1273,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lentil",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 2077,
+          "order": null
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Blue Jacket",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 305,
+          "order": null
+        },
+        {
+          "trait_type": "Headgear",
+          "value": "Fire",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 70,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19946"
+    },
+    {
+      "id": 401178747,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/4ea830dbd59d24dc89bd0ab7f65e68ba.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/4ea830dbd59d24dc89bd0ab7f65e68ba.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/4ea830dbd59d24dc89bd0ab7f65e68ba.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19945.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19945",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19945",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19945",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Headgear",
+          "value": "Sweatband",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 440,
+          "order": null
+        },
+        {
+          "trait_type": "Face",
+          "value": "Blush",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 543,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Grimace",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 428,
+          "order": null
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Fan",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 202,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Edamame",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 2075,
+          "order": null
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Hanbok",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 83,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Half-open",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1799,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White B",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3419,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19945"
+    },
+    {
+      "id": 401178739,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/dfd1590c117edb65851c93b0251d2d83.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/dfd1590c117edb65851c93b0251d2d83.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/dfd1590c117edb65851c93b0251d2d83.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19944.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19944",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19944",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19944",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Mouth",
+          "value": "Whistling",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 304,
+          "order": null
+        },
+        {
+          "trait_type": "Shoe",
+          "value": "Brown Boots",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 192,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lentil",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 2077,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Half-open",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1799,
+          "order": null
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Pink Hoodie with Backpack",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 299,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White B",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3419,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19944"
+    },
+    {
+      "id": 386924111,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/cb5ddd03abaff1de9a4a85f0776b6396.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/cb5ddd03abaff1de9a4a85f0776b6396.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/cb5ddd03abaff1de9a4a85f0776b6396.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19943.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19943",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19943",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19943",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "hitotsu"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/15.png",
+        "address": "0x6233da54a2beb42355d558999a9ae1662ab48bf2",
+        "config": ""
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Clothing",
+          "value": "Oversized Red Panda T-shirt",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 73,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "D:",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 660,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Focused",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 888,
+          "order": null
+        },
+        {
+          "trait_type": "Headgear",
+          "value": "Red Panda Headband",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 150,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Coffee Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1972,
+          "order": null
+        },
+        {
+          "trait_type": "Face",
+          "value": "Red Fang Face Paint",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 278,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White B",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3419,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19943"
+    },
+    {
+      "id": 386924106,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/ad45f048d75a0b911f6fed7d340846e4.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/ad45f048d75a0b911f6fed7d340846e4.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/ad45f048d75a0b911f6fed7d340846e4.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19942.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19942",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19942",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19942",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "hitotsu"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/15.png",
+        "address": "0x6233da54a2beb42355d558999a9ae1662ab48bf2",
+        "config": ""
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Clothing",
+          "value": "Bathrobe",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 270,
+          "order": null
+        },
+        {
+          "trait_type": "Eyebrows",
+          "value": "Angry",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 736,
+          "order": null
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Spoon",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 74,
+          "order": null
+        },
+        {
+          "trait_type": "Offhand",
+          "value": "Cigar",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 99,
+          "order": null
+        },
+        {
+          "trait_type": "Shoe",
+          "value": "Black Boots",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 165,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Blue Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 2030,
+          "order": null
+        },
+        {
+          "trait_type": "Headgear",
+          "value": "Cat Headband",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 171,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Wide Missing Tooth Smile",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 581,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Half-open",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1799,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White B",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3419,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19942"
+    },
+    {
+      "id": 386336982,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/6df4519d18fee81989bec0a5f30b7029.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/6df4519d18fee81989bec0a5f30b7029.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/6df4519d18fee81989bec0a5f30b7029.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19941.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19941",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19941",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19941",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "6529FundSZN1"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+        "address": "0x8ba68cfe71550efc8988d81d040473709b7f9218",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Type",
+          "value": "Black Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 2033,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White D",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 4836,
+          "order": null
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Earth",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 137,
+          "order": null
+        },
+        {
+          "trait_type": "Offhand",
+          "value": "Kanabo",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 155,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Wide Missing Tooth Smile",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 581,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sussy",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 484,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19941"
+    },
+    {
+      "id": 386336978,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/2f9009d16342a22311c072fcd3866b6d.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/2f9009d16342a22311c072fcd3866b6d.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/2f9009d16342a22311c072fcd3866b6d.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19940.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19940",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19940",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19940",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "6529FundSZN1"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+        "address": "0x8ba68cfe71550efc8988d81d040473709b7f9218",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Mouth",
+          "value": "Open Smile",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1389,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White C",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3865,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Jelly Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1120,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lashes",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1531,
+          "order": null
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Pink Hoodie with Backpack",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 299,
+          "order": null
+        },
+        {
+          "trait_type": "Headgear",
+          "value": "Frog Mask",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 147,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19940"
+    },
+    {
+      "id": 386336971,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/2467fa332992295147c2abe7cf2f8b5c.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/2467fa332992295147c2abe7cf2f8b5c.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/2467fa332992295147c2abe7cf2f8b5c.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19939.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19939",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19939",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19939",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "6529FundSZN1"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+        "address": "0x8ba68cfe71550efc8988d81d040473709b7f9218",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Type",
+          "value": "Pinto Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1142,
+          "order": null
+        },
+        {
+          "trait_type": "Eyebrows",
+          "value": "Concerned",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 584,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Drool",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 655,
+          "order": null
+        },
+        {
+          "trait_type": "Headgear",
+          "value": "Sloth Mask",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 117,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White D",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 4836,
+          "order": null
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Oversized Sloth T-shirt",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 74,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lashes",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1531,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19939"
+    },
+    {
+      "id": 386336960,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/a00b0896dee01ade0b755d650b0083c5.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/a00b0896dee01ade0b755d650b0083c5.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/a00b0896dee01ade0b755d650b0083c5.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19938.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19938",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19938",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19938",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "6529FundSZN1"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+        "address": "0x8ba68cfe71550efc8988d81d040473709b7f9218",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Type",
+          "value": "Red Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3718,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Side Eye",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 878,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "uwu",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 908,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White B",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3419,
+          "order": null
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "IKZ Hoodie Up",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 297,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19938"
+    },
+    {
+      "id": 386336953,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/f164954cd701e2047cfeb38942bc03a9.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/f164954cd701e2047cfeb38942bc03a9.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/f164954cd701e2047cfeb38942bc03a9.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19937.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19937",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19937",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19937",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "6529FundSZN1"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+        "address": "0x8ba68cfe71550efc8988d81d040473709b7f9218",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Mouth",
+          "value": "Whistling",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 304,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Coffee Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1972,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lashes",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1531,
+          "order": null
+        },
+        {
+          "trait_type": "Headgear",
+          "value": "Cat Ears",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 157,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White A",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3460,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19937"
+    },
+    {
+      "id": 386336945,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/db3044c752c512117c2f1bd7d22f825b.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/db3044c752c512117c2f1bd7d22f825b.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/db3044c752c512117c2f1bd7d22f825b.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19936.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19936",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19936",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19936",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "6529FundSZN1"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+        "address": "0x8ba68cfe71550efc8988d81d040473709b7f9218",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Eyes",
+          "value": "Confused",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 767,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Red Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3718,
+          "order": null
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Tech Deck",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 130,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Wide Toothy Smile",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 684,
+          "order": null
+        },
+        {
+          "trait_type": "Shoe",
+          "value": "Blue Sneakers",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 353,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White B",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3419,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19936"
+    },
+    {
+      "id": 386336935,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/3d1b35091cf15e66f625dfea56628de6.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/3d1b35091cf15e66f625dfea56628de6.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/3d1b35091cf15e66f625dfea56628de6.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19935.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19935",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19935",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19935",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "6529FundSZN1"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+        "address": "0x8ba68cfe71550efc8988d81d040473709b7f9218",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Mouth",
+          "value": "Buckteeth",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 740,
+          "order": null
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Cocktail Umbrella",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 244,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White A",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3460,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Purple Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1876,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Half-open",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1799,
+          "order": null
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Green Full Zip Hoodie",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 83,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19935"
+    },
+    {
+      "id": 386336924,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/b58815096fcf5bfd21aee0816ec11627.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/b58815096fcf5bfd21aee0816ec11627.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/b58815096fcf5bfd21aee0816ec11627.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19934.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19934",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19934",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19934",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "6529FundSZN1"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+        "address": "0x8ba68cfe71550efc8988d81d040473709b7f9218",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Mouth",
+          "value": "Whistling",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 304,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "><",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 790,
+          "order": null
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Red Hoodie Zip-up",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 291,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Jelly Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1120,
+          "order": null
+        },
+        {
+          "trait_type": "Shoe",
+          "value": "Black Boots",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 165,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White A",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3460,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19934"
+    },
+    {
+      "id": 386336911,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/0bafb857651a4f5b68bf0a6169d273fa.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/0bafb857651a4f5b68bf0a6169d273fa.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/0bafb857651a4f5b68bf0a6169d273fa.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19933.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19933",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19933",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19933",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "6529FundSZN1"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+        "address": "0x8ba68cfe71550efc8988d81d040473709b7f9218",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Type",
+          "value": "Black Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 2033,
+          "order": null
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "White Sweater",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 327,
+          "order": null
+        },
+        {
+          "trait_type": "Headgear",
+          "value": "Straw Hat",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 254,
+          "order": null
+        },
+        {
+          "trait_type": "Eyebrows",
+          "value": "Determined",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 529,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Dots",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1925,
+          "order": null
+        },
+        {
+          "trait_type": "Face",
+          "value": "Red Stripes Face Paint",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 303,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Wide Happy Smile",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 710,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White B",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3419,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19933"
+    },
+    {
+      "id": 386336900,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/1a6692d4f5132afefdd93dfe6f545b9a.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/1a6692d4f5132afefdd93dfe6f545b9a.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/1a6692d4f5132afefdd93dfe6f545b9a.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19932.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19932",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19932",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19932",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "6529FundSZN1"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
+        "address": "0x8ba68cfe71550efc8988d81d040473709b7f9218",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Headgear",
+          "value": "Sushi Chef",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 188,
+          "order": null
+        },
+        {
+          "trait_type": "Hand",
+          "value": "Axe",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 184,
+          "order": null
+        },
+        {
+          "trait_type": "Face",
+          "value": "Blush",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 543,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Blue Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 2030,
+          "order": null
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Sloth Sweater",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 147,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White A",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3460,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Half-open",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1799,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": ":P",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 764,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19932"
+    },
+    {
+      "id": 386335830,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/a310387c0e7631a9b60f69ab0e0c558d.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/a310387c0e7631a9b60f69ab0e0c558d.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/a310387c0e7631a9b60f69ab0e0c558d.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19931.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19931",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19931",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19931",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "6529Museum"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/4.png",
+        "address": "0xc6400a5584db71e41b0e5dfbdc769b54b91256cd",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Type",
+          "value": "Pinto Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1142,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "><",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 790,
+          "order": null
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Drool",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 655,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Off White D",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 4836,
+          "order": null
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "White Business Attire",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 168,
+          "order": null
+        },
+        {
+          "trait_type": "Face",
+          "value": "Red Stripes Face Paint",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 303,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19931"
+    },
+    {
+      "id": 386335826,
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://img.seadn.io/files/a98b902ec716b213566023de0cea5a99.png?auto=format",
+      "image_preview_url": "https://img.seadn.io/files/a98b902ec716b213566023de0cea5a99.png?auto=format&h=250&w=250",
+      "image_thumbnail_url": "https://img.seadn.io/files/a98b902ec716b213566023de0cea5a99.png?auto=format&h=128&w=128",
+      "image_original_url": "https://ikzttp.mypinata.cloud/ipfs/QmTRuWHr7bpqscUWFmhXndzf5AdQqkekhqwgbyJCqKMHrL/19930.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Bean #19930",
+      "description": null,
+      "external_link": null,
+      "asset_contract": {
+        "address": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2022-03-31T05:29:13.290922",
+        "name": "Something",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 195438852,
+        "schema_name": "ERC721",
+        "symbol": "SMTH",
+        "total_supply": "0",
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a"
+      },
+      "permalink": "https://opensea.io/assets/0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949/19930",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ=s2500",
+        "chat_url": null,
+        "created_date": "2022-03-31T05:32:31.772609",
+        "default_to_fiat": false,
+        "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": null,
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": null,
+        "medium_username": null,
+        "name": "BEANZ Official",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "require_email": false,
+        "short_description": null,
+        "slug": "beanzofficial",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null,
+        "is_nsfw": false
+      },
+      "decimals": 0,
+      "token_metadata": "https://ikzttp.mypinata.cloud/ipfs/QmPZKyuRw4nQTD6S6R5HaNAXwoQVMj8YydDmad3rC985WZ/19930",
+      "is_nsfw": false,
+      "owner": {
+        "user": {
+          "username": "6529Museum"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/4.png",
+        "address": "0xc6400a5584db71e41b0e5dfbdc769b54b91256cd",
+        "config": "verified"
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "TeamAzuki"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
+        "address": "0xd45058bf25bbd8f586124c479d384c8c708ce23a",
+        "config": "verified"
+      },
+      "traits": [
+        {
+          "trait_type": "Mouth",
+          "value": "Kiss",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 1014,
+          "order": null
+        },
+        {
+          "trait_type": "Headgear",
+          "value": "Straw Hat",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 254,
+          "order": null
+        },
+        {
+          "trait_type": "Type",
+          "value": "Blue Bean",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 2030,
+          "order": null
+        },
+        {
+          "trait_type": "Background",
+          "value": "Dark Purple",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 979,
+          "order": null
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sussy",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 484,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null,
+      "token_id": "19930"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "technical-test",
+  "version": "1.0.0",
+  "description": "Frontend technical test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilioheinz/technical-test.git"
+  },
+  "author": "emilioheinz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilioheinz/technical-test/issues"
+  },
+  "homepage": "https://github.com/emilioheinz/technical-test#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
