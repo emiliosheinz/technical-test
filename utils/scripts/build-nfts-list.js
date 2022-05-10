@@ -14,6 +14,7 @@ function makeNFT({
 }) {
   return {
     id,
+    price: Number((Math.random() * 10).toFixed(2)),
     image: {
       url: image_url,
       previewUrl: image_preview_url,
@@ -22,7 +23,6 @@ function makeNFT({
     collection: {
       name: collection?.name,
     },
-    price: Number((Math.random() * 10).toFixed(2)),
   };
 }
 
@@ -44,7 +44,7 @@ const nfts = responseFiles
   .flat();
 
 const server = {
-  nfts,
+  nfts: nfts.sort((a, b) => 0.5 - Math.random()),
 };
 
 fs.writeFileSync(path.resolve("server.json"), JSON.stringify(server));
