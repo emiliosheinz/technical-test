@@ -12,5 +12,5 @@ async function upsertFile(name) {
 }
 
 collections.forEach(async (collection) => {
-  await upsertFile(path.relative("utils", "responses", collection));
+  await upsertFile(path.relative("src", "assets", "responses", collection));
 });

@@ -1,4 +1,4 @@
-import collections from "../collections";
+import collections from "../constants/collections.js";
 
 collections
   .map(

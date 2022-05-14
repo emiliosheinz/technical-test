@@ -1,7 +1,7 @@
 import * as fs from "fs";
 import path from "path";
 
-const responsesPath = ["utils", "responses"];
+const responsesPath = ["src", "assets", "responses"];
 const responseFiles = fs.readdirSync(path.resolve(...responsesPath));
 const NFTS_BY_COLLECTION = 4;
 
