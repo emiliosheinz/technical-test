@@ -15,8 +15,8 @@ Calma lá! Não tem problema nenhum. Estamos buscando pessoas que saibam resolve
 
 ## 📦 Como enviar a solução para nós
 
-1. Faça um [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) desse repositório.
-2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) o seu fork na sua máquina.
+1. Crie um repositório público no GitHub
+2. Clone esse repositório na sua máquina.
 3. Desenvolva a solução do problema.
 4. Suba o código escrito no repositório.
 5. Envie o link do repositório para nós. // TODO: Verificar como isso pode ser feito
@@ -64,4 +64,24 @@ Para ter acesso completo ao layout você precisa copia-lo para dentro da sua con
 // TODO: Escrever documentação de como copiar um layout para a sua conta.
 
 ### 💨 API
+Para consumir os dados disponibilizados por nós no arquivo `server.json` utilizaremos o [JSON Server](https://www.npmjs.com/package/json-server). Dessa forma será possível simular uma API baseada em um arquivo `JSON` local. 
+
+Instale o JSON Server
+
+```
+npm install -g json-server
+```
+
+Copie o conteúdo do arquivo `server.json` e o coloque na raiz do seu projeto. 
+
+```
+touch server.json
+```
+
+Inicie o JSON Server.
+
+```
+json-server --watch server.json --delay 500
+```
+
 // TODO: Ecrever documentação sobre a API
