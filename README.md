@@ -1,6 +1,6 @@
 <img src="./images/cover.png" alt="Imagem de capa do readme do desafio técnico" width="100%"/>
 
-A seguir você encontrará instruções para realizar este desafio técnico. Caso haja qualquer dúvida durante o processo envie um e-mail para [emilio.heinzmann@cwi.com.br](mailto:emilio.heinzmann@cwi.com.br).
+A seguir você encontrará instruções para realizar este desafio técnico. Caso haja qualquer dúvida ou sugestão durante o processo você pode abrir uma [nova discussão aqui](https://github.com/emilioheinz/technical-test/discussions).
 
 ## 🚀 Tecnologias
 É preferível que você use as tecnologias listadas a baixo para resolver os problemas propostos pelo nosso time, são elas que usamos em 90% do nosso tempo: 
