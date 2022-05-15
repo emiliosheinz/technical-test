@@ -53,7 +53,7 @@ O objetivo desse desafio é criar uma pequena lojinha de [NFTs](https://www.goog
 - Na listagem de NFTs da carteira, cada NFT deve apresentar uma imagem, a coleção a qual ele pertence, seu ID, preço e um botão para removê-lo da carteira. 
 - Ao pressionar o botão de remover o NFT da carteira o NFT deve ser removido e a listagem atualizada.
 - A carteira deve também apresentar um resumo dos NFTs que estão sendo comprados.
-- O resumo deve apresentar ID, preço em Ether e em Reais de cada NFT.
+- O resumo deve apresentar ID, preço em Ether e em Reais de cada NFT. Essa conversão pode ser feita levando em conta o [preço de um Ether](https://www.google.com/search?q=Ethereum+to+Real) no momento do desenvolvimento do desafio.
 - O resumo deve apresentar o valor total, em Ether e Reais, da soma de todos os NFTs presentes na carteira.
 - Ao recaregar qualquer página os itens presentes na carteira do usuário devem ser persistidos.
 
