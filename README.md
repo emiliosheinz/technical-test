@@ -41,7 +41,6 @@ O objetivo desse desafio é criar uma pequena lojinha de [NFTs](https://www.goog
 
 ### ➡️ Requisitos do software:
 - Ao acessar a home da aplicação o usuário deve ver uma listagem dos NFTs disponíveis para compra.
-- Enquanto os NFTs estão sendo buscados da API um loader deve ser exibido.
 - O usuário pode adicionar um ou mais NFTs a sua carteira. 
 - Um NFT não pode ser adicionado mais de uma vez a carteira do usuário.
 - Na listagem, cada NFT deve apresentar uma imagem, a coleção a qual ele pertence, o seu ID e o seu preço.
@@ -56,7 +55,7 @@ O objetivo desse desafio é criar uma pequena lojinha de [NFTs](https://www.goog
 - A carteira deve também apresentar um resumo dos NFTs que estão sendo comprados.
 - O resumo deve apresentar ID, preço em Ether e em Reais de cada NFT. Essa conversão pode ser feita levando em conta o [preço de um Ether](https://www.google.com/search?q=Ethereum+to+Real) no momento do desenvolvimento do desafio.
 - O resumo deve apresentar o valor total, em Ether e Reais, da soma de todos os NFTs presentes na carteira.
-- Ao recaregar qualquer página os itens presentes na carteira do usuário devem ser persistidos.
+- Ao recarregar qualquer página os itens presentes na carteira do usuário devem ser persistidos.
 
 ### 💅🏼 Layout
 
