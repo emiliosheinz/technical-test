@@ -5,6 +5,8 @@ A seguir você encontrará instruções para realizar este desafio técnico. Cas
 ## 🚀 Tecnologias
 É preferível que você use as tecnologias listadas a baixo para resolver os problemas propostos pelo nosso time, são elas que usamos em 90% do nosso tempo: 
 - ReactJS
+- Context API
+- React Hooks
 - TypeScript
 - NextJS
 - Alguma ferramenta de estilização da sua escolha
