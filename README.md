@@ -18,10 +18,9 @@ Calma lá! Não tem problema nenhum. Estamos buscando pessoas que saibam resolve
 ## 📦 Como enviar a solução para nós
 
 1. Crie um repositório público no GitHub;
-2. Clone o repositório na sua máquina;
-3. Desenvolva a solução do problema;
-4. Suba o código escrito no repositório;
-5. Envie o link do repositório para nós avaliarmos.
+2. Desenvolva a solução do problema;
+3. Suba o código escrito no repositório criado;
+4. Envie o link do repositório para nós avaliarmos. // TODO: Verificar como o link será enviado para nós
 
 ## ✅ O que será avaliado
 - Qualidade do código;
