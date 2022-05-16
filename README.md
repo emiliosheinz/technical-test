@@ -59,7 +59,7 @@ O objetivo desse desafio é criar uma pequena lojinha de [NFTs](https://www.goog
 
 ### 💅🏼 Layout
 
-Link para o layou: [https://www.figma.com/technical-test](https://www.figma.com/file/aPYbjgTxVM9NgKyvwaKUi2/Arezzo%26Co-Store?node-id=0%3A1)
+Link para o layout: [https://www.figma.com/technical-test](https://www.figma.com/file/aPYbjgTxVM9NgKyvwaKUi2/Arezzo%26Co-Store?node-id=0%3A1)
 
 Para ter acesso completo ao layout você precisa copia-lo para dentro da sua conta. Só assim você poderá visualizar as cores e baixar os assets utilizados para construção do layout.
 
