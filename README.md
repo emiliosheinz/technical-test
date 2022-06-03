@@ -20,7 +20,7 @@ Calma lá! Não tem problema nenhum. Estamos buscando pessoas que saibam resolve
 1. Crie um repositório público no GitHub;
 2. Desenvolva a solução do problema;
 3. Suba o código escrito no repositório criado;
-4. Envie o link do repositório para nós avaliarmos. // TODO: Verificar como o link será enviado para nós
+4. Envie o link do repositório para nós avaliarmos.
 
 ## ✅ O que será avaliado
 - Qualidade do código;
