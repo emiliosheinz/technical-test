@@ -77,7 +77,7 @@ npm install -g json-server
 Copie o conteúdo do arquivo `server.json` deste repositório e o coloque na raiz do seu projeto. Para fazer isso de forma mais simples e prática você pode copiar o comando a baixo e roda-lo na raiz do seu projeto.
 
 ```
-touch server.json && curl https://raw.githubusercontent.com/emilioheinz/technical-test/main/server.json > server.json
+touch server.json && curl https://raw.githubusercontent.com/emiliosheinz/technical-test/main/server.json > server.json
 ```
 
 Inicie o JSON Server apontando para o arquivo criado:
